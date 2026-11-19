@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anurag-polasa-banner.png" alt="Anurag Polasa - Full Stack and Web3 Developer" width="100%" />
+<img src="anurag-polasa-banner.png" alt="Anurag Polasa - Full Stack and Web3 Developer" width="100%" />
 
 # 👋 Hi, I'm Anurag Polasa
 
