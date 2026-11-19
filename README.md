@@ -1,32 +1,154 @@
-<h1 align="center">Hi 👋, I'm Anurag Polasa</h1>
-<h3 align="center">A passionate FullStack & Blockchain developer from India</h3>
+# 👋 Hi, I'm Anurag Polasa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpolasa5&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpolasa5" /> </p>
+\<h3 align="center">🚀 Full Stack Developer | Blockchain Developer | Web3 Enthusiast\</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragpolasa5" alt="anuragpolasa5" /></a> </p>
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=anuragpolasa5&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=anuragpolasa5\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" /> \</p>
 
-- 🔭 I’m currently working on **BazaarNow**
+I'm a passionate **Full Stack and Blockchain Developer from India**, interested in building scalable web applications, decentralized applications, smart contracts, and innovative digital products.
 
-- 🌱 I’m currently learning **Content Creation**
+I enjoy solving real-world problems through technology and continuously exploring new tools in Web3, AI, and software engineering.
 
-- 👯 I’m looking to collaborate on **BazaarNow**
+- 🔭 Currently working on **BazaarNow – Your Neighbourhood Store Online**
+- 🌱 Currently learning **Blockchain, Solidity, AI Tools & Content Creation**
+- 👯 Looking to collaborate on **Full Stack, Web3 & Blockchain Projects**
+- 💬 Ask me about **MERN Stack, React, Node.js, Solidity & Smart Contracts**
+- 🔗 Interested in **DeFi, NFTs, DAOs, Web3 & Decentralized Applications**
+- 📫 Reach me at [**anuragpolasa@gmail.com**](mailto\:anuragpolasa@gmail.com)
+- 🌍 Based in **India**
 
-- 📝 I regularly write articles on [Blockchain develp](Blockchain develp)
+---
 
-- 💬 Ask me about **FullStack and Blockchain Development**
+## 🌐 Connect With Me
 
-- 📫 How to reach me **anuragpolasa@gmail.com**
+\<p align="left"> \<a href="[https://github.com/anuragpolasa5](https://github.com/anuragpolasa5)" target="\_blank"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \<a href="[https://linkedin.com/in/anurag-polasa121](https://linkedin.com/in/anurag-polasa121)" target="\_blank"> \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a> \<a href="mailto\:anuragpolasa\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a> \</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anurag-polasa121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-polasa121" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🚀 Featured Project
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpolasa5&show_icons=true&locale=en&layout=compact" alt="anuragpolasa5" /></p>
+### 🛒 BazaarNow – Your Neighbourhood Store Online
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpolasa5&show_icons=true&locale=en" alt="anuragpolasa5" /></p>
+A hyperlocal grocery e-commerce platform designed to connect customers with nearby stores.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpolasa5&" alt="anuragpolasa5" /></p>
+**Key Features:**
+
+- Multi-store marketplace
+- Customer and vendor dashboards
+- Shopping cart and checkout
+- Order management and delivery tracking
+- Payment gateway integration
+- Location-based services
+
+**Technologies:** React, Next.js, Node.js, Supabase, Firebase, Google Maps API and payment integrations.
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🌐 Frontend Development
+
+
+
+
+
+
+
+
+
+
+\
+
+
+### ⛓️ Blockchain & Web3 Development
+
+
+\
+
+
+### ⚙️ Backend Development
+
+
+
+
+
+\
+
+
+### 🗄️ Databases & Storage
+
+
+
+
+
+\
+
+
+### ☁️ Cloud, DevOps & Deployment
+
+
+
+
+
+
+
+\
+
+
+### 📊 Data Science & Machine Learning
+
+
+
+
+
+
+\
+
+
+### 🔧 Tools & Other Technologies
+
+
+
+
+
+
+
+
+
+\
+
+
+---
+
+## 📊 GitHub Statistics
+
+\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=anuragpolasa5&show_icons=true&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api?username=anuragpolasa5\&show_icons=true\&theme=radical\&hide_border=false)" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpolasa5&layout=compact&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpolasa5\&layout=compact\&theme=radical\&hide_border=false)" /> \</p>
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com/?user=anuragpolasa5&theme=radical&hide_border=false](https://streak-stats.demolab.com/?user=anuragpolasa5\&theme=radical\&hide_border=false)" /> \</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=anuragpolasa5&theme=radical&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=anuragpolasa5\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)" />
+\</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+\<p align="center">
+&#x20; \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)" />
+\</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+\<p align="center">   \<img src="[https://github-contributor-stats.vercel.app/api?username=anuragpolasa5&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=anuragpolasa5\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)" /> \</p>
+
+---
+
+\<p align="center">   💡 \<b>Building. Learning. Innovating.\</b>   \<br/>   🚀 Let's connect and build something amazing together! \</p>
+
+\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=anuragpolasa5&style=for-the-badge&color=blue](https://komarev.com/ghpvc/?username=anuragpolasa5\&style=for-the-badge\&color=blue)" /> \</p>
